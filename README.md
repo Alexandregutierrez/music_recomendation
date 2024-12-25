@@ -30,7 +30,10 @@ Bibliotecas:
 	4.	Recomendação: Quando você fornece uma música, o sistema encontra músicas no mesmo cluster e calcula as distâncias euclidianas para recomendar as mais próximas.
 
 
+
 -- // --
+
+
 
 🇪🇸 Este proyecto es un sistema de recomendación musical basado en el análisis de clústeres y reducción de dimensionalidad utilizando PCA (Análisis de Componentes Principales). El objetivo es recomendar canciones similares a partir de una canción inicial, aplicando técnicas de aprendizaje automático.
 
